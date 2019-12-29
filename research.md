@@ -23,7 +23,7 @@ Yaguang Li, <strong>Chuizheng Meng</strong>, Cyrus Shahabi and Yan Liu <br />
 
 <li><strong>Benchmarking deep learning models on large healthcare datasets</strong> <br />
 Sanjay Purushotham*, <strong>Chuizheng Meng</strong>*, Zhengping Che, Yan Liu (*equal contribution) <br />
-<em>Journal of biomedical informatics, 2018</em>. <br />
+<em>Journal of Biomedical Informatics, 2018</em>. <br />
 <a href="https://www.sciencedirect.com/science/article/pii/S1532046418300716">[<i class="fa fa-file-pdf-o"></i> PDF]</a>
 <a href="https://github.com/USC-Melady/Benchmarking_DL_MIMICIII">[<i class="fa fa-github"></i> Code]</a> <br /><br /></li>
 
