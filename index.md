@@ -12,6 +12,7 @@ My email address is `chuizhem AT usc DOT edu`.
 
 ### Recent News
 
+**\[01-13-2020\]** I gave a talk about our work "Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics" during the 3rd Physics Informed Machine Learning Workshop. \[[Slides](https://docs.google.com/presentation/d/1P0iq8rOhqk7GSOtfZVsvVH44zlopiwVdL8341VNLStU/edit?usp=sharing)\]
 **\[12-19-2019\]** Our paper "Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics" is accepted by ICLR 2020.
 
 [yan_liu]: http://www-bcf.usc.edu/~liu32/index.html "Prof. Yan Liu"
